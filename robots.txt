@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://clornted.github.io/clornted.txt.gz
+Sitemap: https://clornted.github.io/app/clornted.txt.gz
+Sitemap: https://clornted.github.io/assets/clornted.txt.gz
+Sitemap: https://clornted.github.io/css/clornted.txt.gz
+Sitemap: https://clornted.github.io/includes/clornted.txt.gz
+Sitemap: https://clornted.github.io/item/clornted.txt.gz
+Sitemap: https://clornted.github.io/src/clornted.txt.gz
